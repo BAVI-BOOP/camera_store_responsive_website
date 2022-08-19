@@ -42,6 +42,8 @@ parallax-website(folder)
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
+- Flexbox 
+
 
 ### At the end of the project, I am able to;
 
