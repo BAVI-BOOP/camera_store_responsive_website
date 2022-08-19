@@ -1,9 +1,9 @@
 
 
-# Project : Parallax Website 
+# Project : Camera Store Website 
 
 ## Description
-Project aims to create a responsive parallax website.
+Project aims to create a responsive camera store website.
 
 ## Problem Statement
 
@@ -24,12 +24,12 @@ parallax-website(folder)
 
 ## Expected Outcome
 
-<a href="https://bavi-boop.github.io/parallax-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
+<a href="https://bavi-boop.github.io/camera_store_responsive_website/"><img src="camera-store.gif" alt="screenshot" width="600" height="500"></a>
 
 ## Live Website
 
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/parallax-website/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/camera_store_responsive_website/">Live Website</a>
 <hr>
 
 ### At the end of the project, following topics are to be covered;
