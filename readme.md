@@ -24,7 +24,7 @@ parallax-website(folder)
 
 ## Expected Outcome
 <p align="center">
-<a href="https://bavi-boop.github.io/camera_store_responsive_website/"><img src="screenshot.jpg" alt="screenshot" width="520" height="390"></a>
+<a href="https://bavi-boop.github.io/camera_store_responsive_website/"><img src="camera-store.gif" alt="screenshot" width="520" height="390"></a>
 </p>
 
 
