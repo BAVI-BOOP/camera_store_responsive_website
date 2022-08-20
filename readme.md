@@ -23,7 +23,10 @@ parallax-website(folder)
 ```
 
 ## Expected Outcome
-<a href="https://bavi-boop.github.io/camera_store_responsive_website/"><img src="camera-store.gif" alt="screenshot" width="550" height="400"></a>
+<p align="center">
+<a href="https://bavi-boop.github.io/camera_store_responsive_website/"><img src="screenshot.jpg" alt="screenshot" width="520" height="390"></a>
+</p>
+
 
 ## Live Website
 
