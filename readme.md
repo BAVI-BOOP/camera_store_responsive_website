@@ -89,8 +89,9 @@ Project aims to create a responsive camera store website.
 
 ### Useful resources
 
-- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [W3 Schools](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
 - [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
+- [Codecademy](https://www.codecademy.com/learn) - This project was assigned by codecademy platform.
 
 
 ## Author
