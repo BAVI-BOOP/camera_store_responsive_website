@@ -10,8 +10,8 @@
 ## Table of contents
 
   - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Project Skeleton](#project-skeleton)
+  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
