@@ -14,7 +14,6 @@
   - [Project Skeleton](#project-skeleton)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Steps To Project](#steps-to-project)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -80,9 +79,7 @@ Project aims to create a responsive camera store website.
 
 - Overflow Property-The float Property-Opacity / Transparency-Units in CSS
 
-- CSS Setting height and width-CSS Outline-CSS Combinators
 
-- Flexbox 
 	
 -
 
