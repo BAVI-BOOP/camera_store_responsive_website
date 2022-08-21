@@ -18,7 +18,7 @@
 - [Author](#author)
 
 
-## Overvire
+## Overview
 Project aims to create a responsive camera store website.
 
 ## The Challenge
